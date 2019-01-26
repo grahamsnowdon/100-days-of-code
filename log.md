@@ -17,3 +17,12 @@
 
 **Link to work:**
 1. [This is where it'll be] https://www.snowdon.me/100DaysOfCode eventually.
+
+### Day 2: January 26, 2019
+
+**Today's Progress**: IDE's for Visual Basic suck unless you are a Windoze user.
+
+**Thoughts:** My Boss insists we use visual basic (gods know why there's tonnes of python programming resources out there and or even C# is more cross platform compatible) with the kids, the problem is that M$ are progressively reducing cross platform support for vb in favor of c#, it seems to me. Their visualstudiocode IDE doesn't support vb at all... (does it? maybe I'll try it.)
+
+**Link to work:**
+1. [This is where it'll be] https://www.snowdon.me/100DaysOfCode eventually.
