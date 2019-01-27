@@ -26,3 +26,12 @@
 
 **Link to work:**
 1. [This is where it'll be] https://www.snowdon.me/100DaysOfCode eventually.
+
+### Day 3: January 27, 2019
+
+**Today's Progress**: Running Visual Studio in a windoze VM, creating reading and appending txt files from VB.
+
+**Thoughts:** Took way longer than I wanted with this, well over an hour but I have the makings of a lesson now from it.
+
+**Link to work:**
+1. https://www.snowdon.me/100DaysOfCode/files.vb 
