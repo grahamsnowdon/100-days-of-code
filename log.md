@@ -1,22 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 24, 2019
+### Day 4: January 28, 2019
 
-**Today's Progress**: Setup, installed Windows 10 VM and Visual Studio within, Visual Studio for MACOS sucks. Setup a clone of my webserver at www.snowdon.me part of this challenge will be learning VB.net for school and part of it will be learning WebDev further from freeCodeCamp.
+**Today's Progress**: Completing visual basic challenges from a Craig N Dave resource I bought www.craigndave.com for my students to complete. Objective 3 done.
 
-**Thoughts:** I really struggled with getting a shared drive accessable on the VM LAMP box so I can write direct to /var/www/html Parallels disk not loading or summat.
-
-**Link to work:**
-1. [This is where it'll be] https://www.freecodecamp.org/grahamsnowdon
-
-### Day 1: January 25, 2019
-
-**Today's Progress**: none really.
-
-**Thoughts:** Still struggling with trying to get Parallels toolbox installed on the LAMP VM devbox to even start this challenge. Doesn't feel like any progress has been made, may abandon the devbox in favour of just doing the freeCodeCamp challenges.
+**Thoughts:** Will complete the other objectives and post over the next few days.
 
 **Link to work:**
-1. [This is where it'll be] https://www.snowdon.me/100DaysOfCode eventually.
+1. https://www.snowdon.me/100DaysOfCode/files.vb
+
+### Day 3: January 27, 2019
+
+**Today's Progress**: Running Visual Studio in a windoze VM, creating reading and appending txt files from VB.
+
+**Thoughts:** Took way longer than I wanted with this, well over an hour but I have the makings of a lesson now from it.
+
+**Link to work:**
+1. https://www.snowdon.me/100DaysOfCode/files.vb
 
 ### Day 2: January 26, 2019
 
@@ -27,11 +27,20 @@
 **Link to work:**
 1. [This is where it'll be] https://www.snowdon.me/100DaysOfCode eventually.
 
-### Day 3: January 27, 2019
+### Day 1: January 25, 2019
 
-**Today's Progress**: Running Visual Studio in a windoze VM, creating reading and appending txt files from VB.
+**Today's Progress**: none really.
 
-**Thoughts:** Took way longer than I wanted with this, well over an hour but I have the makings of a lesson now from it.
+**Thoughts:** Still struggling with trying to get Parallels toolbox installed on the LAMP VM devbox to even start this challenge. Doesn't feel like any progress has been made, may abandon the devbox in favour of just doing the freeCodeCamp challenges.
 
 **Link to work:**
-1. https://www.snowdon.me/100DaysOfCode/files.vb 
+1. [This is where it'll be] https://www.snowdon.me/100DaysOfCode eventually.
+
+### Day 0: January 24, 2019
+
+**Today's Progress**: Setup, installed Windows 10 VM and Visual Studio within, Visual Studio for MACOS sucks. Setup a clone of my webserver at www.snowdon.me part of this challenge will be learning VB.net for school and part of it will be learning WebDev further from freeCodeCamp.
+
+**Thoughts:** I really struggled with getting a shared drive accessable on the VM LAMP box so I can write direct to /var/www/html Parallels disk not loading or summat.
+
+**Link to work:**
+1. [This is where it'll be] https://www.freecodecamp.org/grahamsnowdon
