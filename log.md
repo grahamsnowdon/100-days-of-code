@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 29, 2019
+
+**Today's Progress**: This hour was spent finally getting my webdev virtual environment setup so I can test code before going live on my webserver with it.
+I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 for my version of parallels toolbox to run, then installed apache2, then deleted /var/www/html, then created a symbolic link to the shared folder in /var/www called html then installed mysql and then upgraded the ubuntu box to v18 and then install php etc, which doesn't seem to be working but I've got to get to work, so that'll have to wait until tomorrow's hour.
+
+**Thoughts:** Will complete the other VB objectives and post over the next few days.
+
+**Link to work:**
+1. https://www.snowdon.me/100DaysOfCode/
+
 ### Day 4: January 28, 2019
 
 **Today's Progress**: Completing visual basic challenges from a Craig N Dave resource I bought www.craigndave.com for my students to complete. Objective 3 done.
@@ -7,7 +17,7 @@
 **Thoughts:** Will complete the other objectives and post over the next few days.
 
 **Link to work:**
-1. https://www.snowdon.me/100DaysOfCode/files.vb
+1. https://www.snowdon.me/100DaysOfCode/conditional_statements.vb
 
 ### Day 3: January 27, 2019
 
