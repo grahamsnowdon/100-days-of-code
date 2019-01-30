@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 30, 2019
+
+**Today's Progress:** COmbination of copied and created code playing with procedures and functions.
+**Thoughts:** It takes ages (six minutes and 26 seconds) to boot up visual studio via a virtual machine, I need to get more RAM 8Gb isn't cutting the mustard.
+
+**Link to work:**
+1. https://www.snowdon.me/100DaysOfCode/
+
 ### Day 5: January 29, 2019
 
 **Today's Progress**: This hour was spent finally getting my webdev virtual environment setup so I can test code before going live on my webserver with it.
