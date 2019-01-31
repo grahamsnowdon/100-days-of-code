@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 30, 2019
+
+**Today's Progress:** None to speak of, spent the hour making sure my lessons for tomorrow were up to date, hopefully will get to do some coding during my planning preparation and assessment periods today in school as I've spend my own hour of code time doing that instead of coding. Need to speak to the boss about flexibilty on .net.
+**Thoughts:** I hate VB as it's not cross platform compatible.
+
+**Link to work:**
+1. https://www.snowdon.me/100DaysOfCode/
+
+
 ### Day 6: January 30, 2019
 
 **Today's Progress:** COmbination of copied and created code playing with procedures and functions.
