@@ -1,23 +1,33 @@
 # 100 Days Of Code - Log
 
-### Day 7: January 30, 2019
+### Day 8: 1st February 2019
+
+**Today's Progress:** Product code challenge 1 complete.
+**Thoughts:** I still hate VB as it's not cross platform compatible. Product code challenge 2 is proving a gyet to sort out as I'm not sure how to break out of a while loop on "the user does not enter a product code" I need to understand how to trigger code from a carriage return I guess. Yay, new month!!
+
+**Link to work:**
+1. https://www.snowdon.me/100DaysOfCode/product1.vb
+
+### Day 7: 31st January 2019
 
 **Today's Progress:** None to speak of, spent the hour making sure my lessons for tomorrow were up to date, hopefully will get to do some coding during my planning preparation and assessment periods today in school as I've spend my own hour of code time doing that instead of coding. Need to speak to the boss about flexibilty on .net.
 **Thoughts:** I hate VB as it's not cross platform compatible.
 
 **Link to work:**
-1. https://www.snowdon.me/100DaysOfCode/
+:(
 
 
-### Day 6: January 30, 2019
+### Day 6: 30th January 2019
 
 **Today's Progress:** COmbination of copied and created code playing with procedures and functions.
 **Thoughts:** It takes ages (six minutes and 26 seconds) to boot up visual studio via a virtual machine, I need to get more RAM 8Gb isn't cutting the mustard.
 
 **Link to work:**
-1. https://www.snowdon.me/100DaysOfCode/
+1. https://www.snowdon.me/100DaysOfCode/func.vb
+2. https://www.snowdon.me/100DaysOfCode/senVal.vb
+3. https://www.snowdon.me/100DaysOfCode/sub-proc.vb
 
-### Day 5: January 29, 2019
+### Day 5: 29 January 2019
 
 **Today's Progress**: This hour was spent finally getting my webdev virtual environment setup so I can test code before going live on my webserver with it.
 I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 for my version of parallels toolbox to run, then installed apache2, then deleted /var/www/html, then created a symbolic link to the shared folder in /var/www called html then installed mysql and then upgraded the ubuntu box to v18 and then install php etc, which doesn't seem to be working but I've got to get to work, so that'll have to wait until tomorrow's hour.
@@ -27,7 +37,7 @@ I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 f
 **Link to work:**
 1. https://www.snowdon.me/100DaysOfCode/
 
-### Day 4: January 28, 2019
+### Day 4: 28 January 2019
 
 **Today's Progress**: Completing visual basic challenges from a Craig N Dave resource I bought www.craigndave.com for my students to complete. Objective 3 done.
 
@@ -36,7 +46,7 @@ I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 f
 **Link to work:**
 1. https://www.snowdon.me/100DaysOfCode/conditional_statements.vb
 
-### Day 3: January 27, 2019
+### Day 3: 27 January 2019
 
 **Today's Progress**: Running Visual Studio in a windoze VM, creating reading and appending txt files from VB.
 
@@ -45,7 +55,7 @@ I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 f
 **Link to work:**
 1. https://www.snowdon.me/100DaysOfCode/files.vb
 
-### Day 2: January 26, 2019
+### Day 2: 26 January 2019
 
 **Today's Progress**: IDE's for Visual Basic suck unless you are a Windoze user.
 
@@ -54,7 +64,7 @@ I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 f
 **Link to work:**
 1. [This is where it'll be] https://www.snowdon.me/100DaysOfCode eventually.
 
-### Day 1: January 25, 2019
+### Day 1: 25 January 2019
 
 **Today's Progress**: none really.
 
@@ -63,7 +73,7 @@ I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 f
 **Link to work:**
 1. [This is where it'll be] https://www.snowdon.me/100DaysOfCode eventually.
 
-### Day 0: January 24, 2019
+### Day 0: 24 January 2019
 
 **Today's Progress**: Setup, installed Windows 10 VM and Visual Studio within, Visual Studio for MACOS sucks. Setup a clone of my webserver at www.snowdon.me part of this challenge will be learning VB.net for school and part of it will be learning WebDev further from freeCodeCamp.
 
