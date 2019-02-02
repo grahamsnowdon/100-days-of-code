@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: 2nd February 2019
+
+**Today's Progress:** Trying out the changes to my setup that my boss recommended. It seems to work!
+**Thoughts:** Starting to be less loathsome of VB now that the boss at work has helped me to figure out how to run the code. :)
+
+**Link to work:**
+1. Nothing achieved other than a new environment to work in.
+
 ### Day 8: 1st February 2019
 
 **Today's Progress:** Product code challenge 1 complete.
