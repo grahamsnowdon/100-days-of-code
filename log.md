@@ -6,8 +6,8 @@
 **Thoughts:** Also created a video for my students who're running visual studio in macOS to help them getting their code running, which took best part of an hour.
 
 **Link to work:**
-1. https://www.snowdon.me/100DaysOfCode/calc.vb
-2. https://www.snowdon.me/100DaysOfCode/The_Quiz.vb
+1. https://www.snowdon.me/100-days-of-code/calc.vb
+2. https://www.snowdon.me/100-days-of-code/The_Quiz.vb
 
 
 ### Day 9: 2nd February 2019
@@ -24,7 +24,7 @@
 **Thoughts:** I still hate VB as it's not cross platform compatible. Product code challenge 2 is proving a gyet to sort out as I'm not sure how to break out of a while loop on "the user does not enter a product code" I need to understand how to trigger code from a carriage return I guess. Yay, new month!!
 
 **Link to work:**
-1. https://www.snowdon.me/100DaysOfCode/product1.vb
+1. https://www.snowdon.me/100-days-of-code/product1.vb
 
 ### Day 7: 31st January 2019
 
@@ -41,9 +41,9 @@
 **Thoughts:** It takes ages (six minutes and 26 seconds) to boot up visual studio via a virtual machine, I need to get more RAM 8Gb isn't cutting the mustard.
 
 **Link to work:**
-1. https://www.snowdon.me/100DaysOfCode/func.vb
-2. https://www.snowdon.me/100DaysOfCode/senVal.vb
-3. https://www.snowdon.me/100DaysOfCode/sub-proc.vb
+1. https://www.snowdon.me/100-days-of-code/func.vb
+2. https://www.snowdon.me/100-days-of-code/senVal.vb
+3. https://www.snowdon.me/100-days-of-code/sub-proc.vb
 
 ### Day 5: 29 January 2019
 
@@ -53,7 +53,7 @@ I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 f
 **Thoughts:** Will complete the other VB objectives and post over the next few days.
 
 **Link to work:**
-1. https://www.snowdon.me/100DaysOfCode/
+1. https://www.snowdon.me/100-days-of-code/
 
 ### Day 4: 28 January 2019
 
@@ -62,7 +62,7 @@ I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 f
 **Thoughts:** Will complete the other objectives and post over the next few days.
 
 **Link to work:**
-1. https://www.snowdon.me/100DaysOfCode/conditional_statements.vb
+1. https://www.snowdon.me/100-days-of-code/conditional_statements.vb
 
 ### Day 3: 27 January 2019
 
@@ -71,7 +71,7 @@ I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 f
 **Thoughts:** Took way longer than I wanted with this, well over an hour but I have the makings of a lesson now from it.
 
 **Link to work:**
-1. https://www.snowdon.me/100DaysOfCode/files.vb
+1. https://www.snowdon.me/100-days-of-code/files.vb
 
 ### Day 2: 26 January 2019
 
@@ -80,7 +80,7 @@ I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 f
 **Thoughts:** My Boss insists we use visual basic (gods know why there's tonnes of python programming resources out there and or even C# is more cross platform compatible) with the kids, the problem is that M$ are progressively reducing cross platform support for vb in favor of c#, it seems to me. Their visualstudiocode IDE doesn't support vb at all... (does it? maybe I'll try it.)
 
 **Link to work:**
-1. [This is where it'll be] https://www.snowdon.me/100DaysOfCode eventually.
+1. [This is where it'll be] https://www.snowdon.me/100-days-of-code/ eventually.
 
 ### Day 1: 25 January 2019
 
@@ -89,7 +89,7 @@ I've made a shared folder from paralells to the ubuntu vm has to run ubuntu 14 f
 **Thoughts:** Still struggling with trying to get Parallels toolbox installed on the LAMP VM devbox to even start this challenge. Doesn't feel like any progress has been made, may abandon the devbox in favour of just doing the freeCodeCamp challenges.
 
 **Link to work:**
-1. [This is where it'll be] https://www.snowdon.me/100DaysOfCode eventually.
+1. [This is where it'll be] https://www.snowdon.me/100-days-of-code/ eventually.
 
 ### Day 0: 24 January 2019
 
