@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: 3rd February 2019
+
+**Today's Progress:** Built a calculator console app, and a five questions quiz using IF and Select Case.
+**Thoughts:** Also created a video for my students who're running visual studio in macOS to help them getting their code running, which took best part of an hour.
+
+**Link to work:**
+1. https://www.snowdon.me/100DaysOfCode/calc.vb
+2. https://www.snowdon.me/100DaysOfCode/The_Quiz.vb
+
+
 ### Day 9: 2nd February 2019
 
 **Today's Progress:** Trying out the changes to my setup that my boss recommended. It seems to work!
