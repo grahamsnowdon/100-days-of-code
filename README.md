@@ -1,7 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
 ## <Edit>
-    all updates for my 100 days of code journey are now found at www.snowdon.me/100-days-of-code
+    all updates for my 100 days of code journey are now found at http://www.snowdon.me/100-days-of-code
 
 ## Contents
 
